@@ -1,0 +1,16 @@
+product_category,list_margin_pct,earned_margin_pct,avg_discount_pct,pct_lines_discounted_below_cost
+Electronics,39.8,25.5,19.1,7.3
+Automotive,44.9,31.8,19.2,5.9
+Jewelry,46.0,33.0,19.4,5.0
+Home Appliances,46.8,33.9,19.6,4.5
+Sports & Outdoors,51.2,39.4,19.3,3.3
+Health & Wellness,51.9,40.3,19.5,2.6
+Home & Kitchen,52.6,41.2,19.4,2.5
+Fashion,54.9,44.0,19.4,2.0
+Baby & Kids,55.1,44.1,19.6,2.1
+Pet Supplies,56.6,46.1,19.5,1.5
+Office Supplies,56.9,46.6,19.3,1.4
+Toys & Games,57.3,47.0,19.4,1.1
+Beauty & Personal Care,58.8,48.9,19.4,1.1
+Books & Media,60.4,51.0,19.2,0.7
+Grocery,62.9,54.0,19.3,0.5

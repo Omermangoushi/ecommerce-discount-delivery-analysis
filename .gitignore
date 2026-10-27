@@ -1,0 +1,17 @@
+# Raw data (~88 MB) - download it and place it in data/raw/ (see data/raw/README.md)
+data/raw/*.csv
+
+# The SQLite database (~88 MB) is rebuilt by scripts/02_build_database.py
+data/*.db
+
+# Python / Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Excel lock files and OS files
+~$*.xlsx
+.DS_Store
+Thumbs.db

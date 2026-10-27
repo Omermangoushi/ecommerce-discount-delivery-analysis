@@ -1,0 +1,5 @@
+shipping_method,orders,avg_delivery_days,delayed_pct,avg_rating
+Same Day,11460,0.8,14.5,3.68
+Express,28320,2.3,15.0,3.68
+Standard,50924,5.2,14.9,3.68
+Economy,22855,7.7,14.9,3.67

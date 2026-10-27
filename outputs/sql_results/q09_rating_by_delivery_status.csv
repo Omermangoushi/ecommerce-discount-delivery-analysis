@@ -1,0 +1,4 @@
+delivery_status,orders,share_pct,avg_rating,pct_ratings_below_3
+Early,9757,8.6,4.02,0.9
+On Time,86916,76.5,3.73,3.8
+Delayed,16886,14.9,3.22,26.5
